@@ -1,0 +1,44 @@
+{
+  "footer": [
+   [
+     {
+       "img": "/static/images/home.png",
+       "title": "书城"
+     },
+     {
+       "img": "/static/images/selecthome.png",
+       "title": "书城"
+     }
+   ],
+    [
+      {
+        "img": "/static/images/love.png",
+        "title": "最热推荐"
+      },
+      {
+        "img": "/static/images/selectlove.png",
+        "title": "最热推荐"
+      }
+    ],
+    [
+      {
+        "img": "/static/images/fact.png",
+        "title": "分类"
+      },
+      {
+        "img": "/static/images/selectfact.png",
+        "title": "分类"
+      }
+    ],
+    [
+      {
+        "img": "/static/images/feedback.png",
+        "title": "反馈"
+      },
+      {
+        "img": "/static/images/selectfeedback.png",
+        "title": "反馈"
+      }
+    ]
+  ]
+}

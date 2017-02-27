@@ -1,0 +1,18 @@
+[
+  {
+    "images" : "/static/images/help.png",
+    "text" : "帮助与反馈"
+  },
+  {
+    "images" : "/static/images/with_good.png",
+    "text" : "给予好凭"
+  },
+  {
+    "images" : "/static/images/empty.png",
+    "text" : "清除缓存"
+  },
+  {
+    "images" : "/static/images/disclaimer.png",
+    "text" : "免责声明"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "classification" : [
+    "玄幻奇幻",
+    "美文同人",
+    "名著杂志",
+    "科幻奇异",
+    "武侠仙侠",
+    "女频言情",
+    "现代都市"
+  ],
+  "special" : [
+    "豪门总裁言情",
+    "穿越宫斗小说",
+    "武侠小说",
+    "都市小说",
+    "悬疑小说",
+    "玄幻小说",
+    "历史军事"
+  ],
+  "Color_version" : [
+    "lightsalmon",
+    "lightcoral",
+    "lightpink",
+    "lightblue",
+    "lightgray",
+    "lawngreen",
+    "mediumpurple"
+  ]
+}
